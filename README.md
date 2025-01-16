@@ -1,1 +1,1 @@
-# Python-and-data-analysis-course
+# Домашние задания по курсу Python для анализа данных
